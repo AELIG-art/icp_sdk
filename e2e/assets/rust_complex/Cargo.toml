@@ -4,5 +4,5 @@ edition = 2021
 resolver = "2"
 
 [workspace.dependencies]
-ic-cdk = "0.16"
+ic-cdk = "0.17.2"
 candid = "0.10"
